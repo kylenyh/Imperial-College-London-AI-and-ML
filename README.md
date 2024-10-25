@@ -6,7 +6,7 @@ This course will develop your expertise in AI, ensuring you understand the state
 
 You'll also explore emerging trends and acquire practical programming skills in suitable languages such as Prolog, Matlab or Python.
 
-MSc Computing (Artificial Intelligence and Machine Learning), Faculty of Engineering
+MSc Computing (Artificial Intelligence and Machine Learning), Department of Computing, Faculty of Engineering
 
 Total 10 modules (At least five of the eight electives must be from Group S, with the remainder (up to three) from Group O)
 
