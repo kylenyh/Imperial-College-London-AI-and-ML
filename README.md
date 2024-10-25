@@ -1,6 +1,12 @@
 # Imperial-College-London-AI-and-ML
 
-Imperial College London MSc Computing (Artificial Intelligence and Machine Learning) 2023/2024 Course
+Enhance your understanding of artificial intelligence and knowledge of engineering on this Master's course, aimed at students looking to specialise in this growing area.
+
+This course will develop your expertise in AI, ensuring you understand the state-of-the-art and can apply techniques to solve problems and develop applications.
+
+You'll also explore emerging trends and acquire practical programming skills in suitable languages such as Prolog, Matlab or Python.
+
+MSc Computing (Artificial Intelligence and Machine Learning), Faculty of Engineering
 
 Total 10 modules (At least five of the eight electives must be from Group S, with the remainder (up to three) from Group O)
 
